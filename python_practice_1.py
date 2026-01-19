@@ -1,0 +1,1 @@
+print("Kataskin Oleksandr, Group-1")
